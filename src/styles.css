@@ -1,0 +1,33 @@
+.shadow{
+    box-shadow: 5px 10px inset;
+}
+.ancla{
+    margin-top: 10px;
+    text-decoration: none;
+
+}
+.ancla:hover{
+    text-decoration: underline;
+}
+.userAccount{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    text-transform: capitalize;
+    color: black;
+    font-size: 25px;
+
+}
+.fab-container{
+    position:fixed;
+    top:175px;
+    left:175px;
+    cursor:pointer;
+}
+.fab-container2{
+    position:fixed;
+    left:999px;
+    bottom:0px;
+    top: 10px;
+    cursor:pointer;
+}
