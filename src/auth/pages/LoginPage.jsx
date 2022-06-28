@@ -21,7 +21,7 @@ export const LoginPage = () => {
   }
 
   return (
-    <div className="animate__animated animate__fadeInLeft">
+     <div className="animate__animated animate__fadeInLeft">
     <Grid
       container
       direction='column'
@@ -68,7 +68,7 @@ export const LoginPage = () => {
             <Grid container
             justifyContent="flex-end"
             >
-            <NavLink className="ancla" to="/auth/register">Crea una cuenta</NavLink>
+            <NavLink className="ancla" to="/auth/register">Create account</NavLink>
 
             </Grid>
           </Grid>
